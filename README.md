@@ -1,6 +1,6 @@
-# Angular13TailwindStarter
+# Tailwind Starter for Angular 13
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+This is a simple plain Angular 13 (V13.1.2) starter with Tailwind Css included. Follow the below instructions for development and deployment. 
 
 ## Development server
 
